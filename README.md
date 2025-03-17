@@ -1,0 +1,1 @@
+# js-palindrom-and-non-palindrom-words
